@@ -114,7 +114,7 @@ Ikuya Yamada, Hiroyuki Shindo, [Neural Attentive Bag-of-Entities Model for Text 
 
 ## Developing Mode
 
-% git clone https://github.com/studio-ousia/wikipedia2vec.git
+% git clone https://github.com/DevinXZhou/wikipedia2vec.git
 
 % cd wikipedia2vec
 
