@@ -112,6 +112,8 @@ Ikuya Yamada, Hiroyuki Shindo, [Neural Attentive Bag-of-Entities Model for Text 
 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 
+## Developing Mode
+
 % git clone https://github.com/studio-ousia/wikipedia2vec.git
 
 % cd wikipedia2vec
